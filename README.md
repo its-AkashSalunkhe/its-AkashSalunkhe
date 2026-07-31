@@ -78,27 +78,29 @@ I’m an Information Technology graduate passionate about building **Machine Lea
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Showcase
 
-* **Machine Learning** — Regression, Classification, Clustering, Ensemble Learning, Feature Engineering, and end-to-end ML workflows.
-* **Natural Language Processing** — Text preprocessing, TF-IDF, Bag of Words, Word2Vec, and NLP pipelines.
-* **SQL for Data Science** — SQL queries, joins, aggregations, window functions, and database analysis.
-* **EDA Techniques** — Exploratory data analysis, visualization, and statistical insights using Python.
-* **GitHub_ML_model_deployment** - End-to-end machine learning model deployment using Streamlit, MLflow, and GitHub Actions, covering model versioning, experiment tracking, and deployment workflows.
-
----
-
-## 📈 GitHub Statistics
-
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-AkashSalunkhe&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-AkashSalunkhe&layout=compact&theme=tokyonight&hide_border=true)
+* 🤖 **[Machine Learning](https://github.com)** — A comprehensive collection of core ML algorithms, data preprocessing frameworks, feature engineering techniques, and validation pipelines implemented from scratch.
+* 💬 **[Natural Language Processing](https://github.com)** — Hands-on NLP implementations covering text cleaning pipelines, static word vector embeddings (Word2Vec), matrix factorization, and sequence-based feature extractors.
+* 🗄️ **[SQL for Data Science](https://github.com)** — Structured analytic scripts focusing on complex window functions, relational aggregations, multi-table joins, and query tuning optimization for big data engineering.
+* 📦 **[GitHub MLOps Model Deployment](https://github.com)** — End-to-end production pipeline leveraging **Streamlit** for front-end rendering, **MLflow** for lifecycle experiment tracking, and automated **GitHub Actions** workflows for continuous integration.
 
 ---
 
-## 🔥 Contribution Graph
+## 📈 GitHub Metrics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=its-AkashSalunkhe&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=its-AkashSalunkhe&show_icons=true&theme=tokyonight&hide_border=true" alt="Akash's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=its-AkashSalunkhe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</p>
 
+---
+
+## 🔥 Contribution Activity
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=its-AkashSalunkhe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
