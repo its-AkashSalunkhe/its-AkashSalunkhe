@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://vercel.app" alt="Data Science Banner" width="100%" />
+</p>
+
 # Hi 👋 I'm Akash Salunkhe
 
 ### Aspiring Data Scientist | Machine Learning & AI Enthusiast | Python Developer | Generative AI & Agentic AI Enthusiast
