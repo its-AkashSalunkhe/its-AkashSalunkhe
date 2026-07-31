@@ -89,14 +89,18 @@ I’m an Information Technology graduate passionate about building **Machine Lea
 ---
 ## 📈 GitHub Statistics
 
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-AkashSalunkhe&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-AkashSalunkhe&layout=compact&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img src="https://vercel.app" alt="Akash's GitHub Stats" height="180" />
+  <img src="https://vercel.app" alt="Top Languages" height="180" />
+</p>
 
 ---
 
 ## 🔥 Contribution Graph
 
-![GitHub Streak](https://streak-stats.demolab.com?user=its-AkashSalunkhe&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img src="https://demolab.com" alt="GitHub Streak" />
+</p>
 
 
 ---
