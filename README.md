@@ -87,20 +87,17 @@ I’m an Information Technology graduate passionate about building **Machine Lea
 * **GitHub_ML_model_deployment** - End-to-end machine learning model deployment using Streamlit, MLflow, and GitHub Actions, covering model versioning, experiment tracking, and deployment workflows.
 
 ---
+
 ## 📈 GitHub Statistics
 
-<p align="left">
-  <img src="https://vercel.app" alt="Akash's GitHub Stats" height="180" />
-  <img src="https://vercel.app" alt="Top Languages" height="180" />
-</p>
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-AkashSalunkhe&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-AkashSalunkhe&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🔥 Contribution Graph
 
-<p align="left">
-  <img src="https://demolab.com" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=its-AkashSalunkhe&theme=tokyonight&hide_border=true)
 
 
 ---
