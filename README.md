@@ -1,6 +1,5 @@
 
-<img width="2000" height="600" alt="git_banner2" src="https://github.com/user-attachments/assets/ab75607d-eab0-4bb2-8f14-56fdbbc5965a" />
-
+<img width="2000" height="600" alt="git_banner1" src="https://github.com/user-attachments/assets/f75379a0-7d85-4ef9-bbf0-ff8f3605f48a" />
 
 # Hi 👋 I'm Akash Salunkhe
 
