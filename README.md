@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://vercel.app" alt="Data Science Banner" width="100%" />
-</p>
+
+<img width="2000" height="600" alt="git_banner2" src="https://github.com/user-attachments/assets/ab75607d-eab0-4bb2-8f14-56fdbbc5965a" />
+
 
 # Hi 👋 I'm Akash Salunkhe
 
