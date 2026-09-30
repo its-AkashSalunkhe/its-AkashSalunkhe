@@ -94,8 +94,9 @@ I’m an Information Technology graduate passionate about building **Machine Lea
 ## 📈 GitHub Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=its-AkashSalunkhe&show_icons=true&theme=tokyonight&hide_border=true" alt="Akash's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=its-AkashSalunkhe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=its-AkashSalunkhe&show_icons=true&theme=tokyonight&hide_border=true" alt="Akash's GitHub Stats" height="180" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-AkashSalunkhe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 ---
