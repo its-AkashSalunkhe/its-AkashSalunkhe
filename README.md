@@ -1,5 +1,6 @@
 
-<img width="2000" height="600" alt="git_banner1" src="https://github.com/user-attachments/assets/f75379a0-7d85-4ef9-bbf0-ff8f3605f48a" />
+<img width="1584" height="396" alt="Black and White Illustrative Manager LinkedIn Banner" src="https://github.com/user-attachments/assets/14415998-3fc0-4bb4-981e-014d2b01eca8" />
+
 
 # Hi 👋 I'm Akash Salunkhe
 
